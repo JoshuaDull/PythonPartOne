@@ -2,13 +2,13 @@
 
 This repo contains workshop materials for the introductory workshop: Python Part One. 
 
-View the full workshop online at: []()
+View the full workshop online at: [https://joshuadull.github.io/PythonPartOne/](https://joshuadull.github.io/PythonPartOne/)
 
 Or, download index.pdf and view the workshop locally. 
 
 ## License
 
-This workshop's instructional materials '[Python Part One]()' were authored by [Joshua Dull](https://github.com/joshuadull). This workshop is derived from work that is Copyright © [Software Carpentry](http://software-carpentry.org/). 
+This workshop's instructional materials '[Python Part One](https://joshuadull.github.io/PythonPartOne/)' were authored by [Joshua Dull](https://github.com/joshuadull). This workshop is derived from work that is Copyright © [Software Carpentry](http://software-carpentry.org/). 
 
 ### Instructional Material
 
