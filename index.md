@@ -1,8 +1,10 @@
-# First Steps with Python
+# Python Part One: An Introduction
 
 This workshop is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). ![CC 4.0 License](CC4.png) 
 
-Download Code & Data here: [git repo](https://git.yale.edu/yul-dss/FirstStepsPython)
+[Source](https://git.yale.edu/yul-dss/FirstStepsPython)
+
+For this workshop, I recommend installing Python 3 using [Anaconda](https://www.anaconda.com/distribution/#download-section). The workshop was built using the Spyder IDE, but users can use any python environment they prefer.
 
 ## What is Python?
 * General programming language
