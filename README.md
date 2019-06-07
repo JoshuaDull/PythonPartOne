@@ -2,9 +2,11 @@
 
 This repo contains workshop materials for the introductory workshop: Python Part One. 
 
+For this workshop, I recommend installing Python 3 using Anaconda. The workshop was built using the Spyder IDE, but users can use any python environment they prefer.
+
 View the full workshop online at: [https://joshuadull.github.io/PythonPartOne/](https://joshuadull.github.io/PythonPartOne/)
 
-Or, download index.pdf and view the workshop locally. 
+Or, download [index.pdf](https://github.com/JoshuaDull/PythonPartOne/raw/master/index.pdf) and view the workshop locally. 
 
 ## License
 
